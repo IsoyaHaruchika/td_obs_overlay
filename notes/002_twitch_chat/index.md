@@ -1,9 +1,9 @@
 ---
 created: 2026-02-25 12:20
 status: active
-prev: [[../001_initial/index.md]]
+prev: "[[../001_initial/index]]"
 next:
-  - [[../003_spec/index.md]]
+  - "[[../003_spec/index]]"
 ---
 
 # Twitchチャット取得方法のリサーチ

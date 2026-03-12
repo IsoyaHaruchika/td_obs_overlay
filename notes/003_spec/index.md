@@ -1,9 +1,9 @@
 ---
 created: 2026-02-25 12:35
 status: done
-prev: [[../002_twitch_chat/index.md]]
+prev: "[[../002_twitch_chat/index]]"
 next:
-  - [[../004_implementation/index.md]]
+  - "[[../004_implementation/index]]"
 ---
 
 # システム仕様書

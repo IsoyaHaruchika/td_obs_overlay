@@ -1,8 +1,8 @@
 ---
 created: 2026-02-25 13:00
 status: done
-prev: [[../003_spec/index.md]]
-next: []
+prev: "[[../003_spec/index]]"
+next:
 ---
 
 # 実装方針

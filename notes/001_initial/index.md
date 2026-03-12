@@ -1,9 +1,9 @@
 ---
 created: 2026-02-25 12:10
 status: done
-prev: null
+prev:
 next:
-  - [[../002_twitch_chat/index.md]]
+  - "[[../002_twitch_chat/index]]"
 source: "[[permanent/touchdesigner-obs-overlay]]"
 ---
 
